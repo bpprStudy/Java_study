@@ -1,4 +1,4 @@
-# OOP2
+# acces modifier
 ## JVM 메모리구조
 
 ## 접근 제한자
